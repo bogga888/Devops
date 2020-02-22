@@ -4,4 +4,5 @@ git checkout will be usefull to navigate b/w branches we have created and master
 git add . (To add all the modified files to staging area )
 what is git checkout 
 git init inside floder you want
-git branch newwork
+git branch will be useful for working on new functionalities
+
