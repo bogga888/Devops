@@ -1,4 +1,5 @@
 gitcommands
 git clone giturl 
 git add . (To add all the modified files to staging area )
+what is git checkout 
 git init inside floder you want
