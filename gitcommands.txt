@@ -1,3 +1,4 @@
 gitcommands
 git clone giturl 
+git add . (To add all the modified files to staging area )
 git init inside floder you want
