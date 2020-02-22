@@ -1,1 +1,3 @@
 gitcommands
+git clone giturl 
+git init inside floder you want
